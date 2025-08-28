@@ -27,3 +27,12 @@ El **menú principal** actúa como interfaz de interacción con el usuario, faci
 Este proyecto busca reforzar los conceptos de **clases, herencia, encapsulamiento y métodos en Python**, aplicados a un caso práctico y cercano a un entorno real.  
 
 ---
+# Para ejecutar el código, se deben realizar los siguientes pasos:
+
+1. Abrir la consola de Visual Studio Code, presionando las teclas Control+Shift+ñ
+
+2.Escribir git clone y pegar la URL del repositorio a clonar "https://github.com/VeronicacortesIsaza/Examen-1.git"
+
+3.Escribir Main.py para ejecutar el programa
+
+4.Digitar la opción deseada en el menú principal y responder a las preguntas que, posteriormente, aparecerán
