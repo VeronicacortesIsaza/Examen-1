@@ -1,6 +1,6 @@
-# 🏨 Sistema de Reservas de Hotel  
+# Sistema de Reservas de Hotel  
 
-## 📌 Descripción del proyecto  
+## Descripción del proyecto  
 El proyecto consiste en el desarrollo de un sistema básico de reservas de hotel implementado en Python, utilizando **programación orientada a objetos**.  
 
 El sistema permite gestionar clientes, habitaciones y reservas de manera sencilla, con el objetivo de simular el funcionamiento de un hotel en el proceso de asignación y administración de habitaciones.  
@@ -15,7 +15,7 @@ Cada una con un costo específico.
 
 ---
 
-## 🎯 Objetivos del sistema  
+## Objetivos del sistema  
 - Reservar una habitación.  
 - Cancelar una reserva.  
 - Calcular el costo total de la estancia según el número de días.  
