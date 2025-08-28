@@ -11,6 +11,7 @@ El hotel cuenta con diferentes tipos de habitaciones:
 - **Estándar**  
 - **Suite**  
 - **Premium**
+  
 Cada una con un costo específico.  
 
 ---
