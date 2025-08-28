@@ -10,8 +10,7 @@ Los clientes pueden registrarse proporcionando su **nombre y documento de identi
 El hotel cuenta con diferentes tipos de habitaciones:  
 - **Estándar**  
 - **Suite**  
-- **Premium**  
-Cada una con un costo específico.  
+- **Premium**  Cada una con un costo específico.  
 
 ---
 
